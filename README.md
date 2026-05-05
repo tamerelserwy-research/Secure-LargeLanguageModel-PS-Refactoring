@@ -1,6 +1,6 @@
 # Automated Security-Centric Refactoring of PowerShell Commands Using Large Language Models
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18636114.svg)](https://doi.org/10.5281/zenodo.18636114)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20040419.svg)](https://doi.org/10.5281/zenodo.20040419)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the official implementation of the paper:
