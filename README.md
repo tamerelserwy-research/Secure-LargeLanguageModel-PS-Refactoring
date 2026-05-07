@@ -7,7 +7,7 @@
 A Python-based framework for cross-language automation that refactors insecure PowerShell commands into secure, parameterized equivalents using Retrieval-Augmented Generation (RAG) and multi-layer validation.
 ## 📁 Repository Structure
 ```txt
-Secure-LLM-PS-Refactoring/
+Secure-LargeLanguageModel-PS-Refactoring/
 ├── README.md
 ├── requirements.txt
 ├── colab_reproduction.ipynb
