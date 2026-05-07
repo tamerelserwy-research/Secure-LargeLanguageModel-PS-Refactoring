@@ -76,7 +76,7 @@ python -m code.main_pipeline --mode evaluate
 @article{elserwy2025secureps,
   title={Automated Security-Centric Refactoring of PowerShell Commands Using Large Language Models: A Python-Based Framework for Cross-Language Automation},
   author={Authors},
-  journal={Egyptian Informatics Journal Preprint},
+  journal={EGIJ Preprint},
   year={2026}
 }
 ```
