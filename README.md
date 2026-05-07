@@ -63,10 +63,10 @@ pip install -r requirements.txt
 pytest tests/ -v
 ```
 ### 3- Run Colab
-Upload colab_reproduction.ipynb to Google Colab, set OPENAI_API_KEY, and run sequentially.
+Upload `colab_reproduction.ipynb` to Google Colab, set `OPENAI_API_KEY`, and run sequentially.
 
 ### 4- Full Reproduction
-Replace placeholders in code/main_pipeline.py and code/rag_retriever.py with fine-tuned 7B model weights and FAISS index.
+Replace placeholders in `code/main_pipeline.py` and `code/rag_retriever.py` with fine-tuned 7B model weights and FAISS index.
 ```bash
 python -m code.main_pipeline --mode evaluate
 ```
