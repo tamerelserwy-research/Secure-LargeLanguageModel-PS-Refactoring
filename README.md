@@ -75,9 +75,9 @@ python -m code.main_pipeline --mode evaluate
 ```bibtex
 @article{elserwy2025secureps,
   title={Automated Security-Centric Refactoring of PowerShell Commands Using Large Language Models: A Python-Based Framework for Cross-Language Automation},
-  author={Elserwy, Tamer Bahgat and El-Demerdash, Basma E.},
-  journal={arXiv preprint},
-  year={2025}
+  author={Authors},
+  journal={Preprint},
+  year={2026}
 }
 ```
 
